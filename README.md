@@ -1,2 +1,1 @@
-# linear-regression-housing
-Linear Regression model using California Housing Dataset
+#Machine_learing_algos
